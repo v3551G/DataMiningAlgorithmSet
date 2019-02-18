@@ -1,0 +1,62 @@
+---------------------------------
+AGNES Algorithm Implementation
+---------------------------------
+AGNES started.
+Loading data...
+Data loaded. Total number of objects : 5
+Initial distances calculated
+Key: 00030004      Value: 0.857143
+Key: 00020004      Value: 0.857143
+Key: 00020003      Value: 0.250000
+Key: 00010004      Value: 1.000000
+Key: 00010003      Value: 0.428571
+Key: 00000004      Value: 0.833333
+Key: 00010002      Value: 0.428571
+Key: 00000003      Value: 0.142857
+Key: 00000002      Value: 0.142857
+Key: 00000001      Value: 0.333333
+Smallest distance is 0.142857. Under key: 00000003
+Clusters to merge: 0, 3
+New cluster ID: 5
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 3
+0 merged with 3
+Calculating new distance matrix.
+Key: 00020004      Value: 0.857143
+Key: 00010004      Value: 1.000000
+Key: 00010002      Value: 0.428571
+Key: 00050004      Value: 0.833333
+Key: 00050002      Value: 0.142857
+Key: 00050001      Value: 0.333333
+Smallest distance is 0.142857. Under key: 00050002
+Clusters to merge: 5, 2
+New cluster ID: 6
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 3
+Adding obejct to new cluster: 2
+0,3 merged with 2
+Calculating new distance matrix.
+Key: 00060004      Value: 0.833333
+Key: 00060001      Value: 0.333333
+Key: 00010004      Value: 1.000000
+Smallest distance is 0.333333. Under key: 00060001
+Clusters to merge: 6, 1
+New cluster ID: 7
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 3
+Adding obejct to new cluster: 2
+Adding obejct to new cluster: 1
+0,3,2 merged with 1
+Calculating new distance matrix.
+Key: 00070004      Value: 0.833333
+Smallest distance is 0.833333. Under key: 00070004
+Clusters to merge: 7, 4
+New cluster ID: 8
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 3
+Adding obejct to new cluster: 2
+Adding obejct to new cluster: 1
+Adding obejct to new cluster: 4
+0,3,2,1 merged with 4
+Calculating new distance matrix.
+AGNES run completed

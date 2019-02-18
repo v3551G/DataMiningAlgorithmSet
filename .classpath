@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="AssociationAnalysis"/>
+	<classpathentry kind="src" path="BaggingAndBoosting"/>
+	<classpathentry kind="src" path="Classification"/>
+	<classpathentry kind="src" path="Clustering"/>
+	<classpathentry kind="src" path="GraphMining"/>
+	<classpathentry kind="src" path="IntegratedMining"/>
+	<classpathentry kind="src" path="LinkMining"/>
+	<classpathentry kind="src" path="Others"/>
+	<classpathentry kind="src" path="RoughSets"/>
+	<classpathentry kind="src" path="SequentialPatterns"/>
+	<classpathentry kind="src" path="StatisticalLearning"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/softWork/eclipseWorkstation/DataMiningAlgorithm/jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

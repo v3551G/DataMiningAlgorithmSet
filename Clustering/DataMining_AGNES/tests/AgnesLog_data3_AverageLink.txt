@@ -1,0 +1,205 @@
+---------------------------------
+AGNES Algorithm Implementation
+---------------------------------
+AGNES started.
+Loading data...
+Data loaded. Total number of objects : 9
+Initial distances calculated
+Key: 00050008      Value: 0.857143
+Key: 00050007      Value: 0.833333
+Key: 00050006      Value: 0.666667
+Key: 00010008      Value: 0.500000
+Key: 00010007      Value: 0.625000
+Key: 00010006      Value: 0.500000
+Key: 00010005      Value: 0.750000
+Key: 00010004      Value: 0.500000
+Key: 00010003      Value: 0.500000
+Key: 00010002      Value: 0.875000
+Key: 00040008      Value: 0.333333
+Key: 00040007      Value: 0.714286
+Key: 00040006      Value: 0.571429
+Key: 00040005      Value: 0.666667
+Key: 00000008      Value: 0.333333
+Key: 00000007      Value: 0.714286
+Key: 00000006      Value: 0.571429
+Key: 00000005      Value: 0.857143
+Key: 00000004      Value: 0.333333
+Key: 00000003      Value: 0.750000
+Key: 00000002      Value: 0.833333
+Key: 00000001      Value: 0.285714
+Key: 00070008      Value: 0.875000
+Key: 00030008      Value: 0.571429
+Key: 00030007      Value: 0.714286
+Key: 00030006      Value: 0.571429
+Key: 00030005      Value: 0.857143
+Key: 00030004      Value: 0.750000
+Key: 00060008      Value: 0.333333
+Key: 00060007      Value: 1.000000
+Key: 00020008      Value: 0.600000
+Key: 00020007      Value: 1.000000
+Key: 00020006      Value: 0.600000
+Key: 00020005      Value: 1.000000
+Key: 00020004      Value: 0.833333
+Key: 00020003      Value: 0.833333
+Smallest distance is 0.285714. Under key: 00000001
+Clusters to merge: 0, 1
+New cluster ID: 9
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 1
+0 merged with 1
+Calculating new distance matrix.
+Key: 00050008      Value: 0.857143
+Key: 00050007      Value: 0.833333
+Key: 00050006      Value: 0.666667
+Key: 00020008      Value: 0.600000
+Key: 00020007      Value: 1.000000
+Key: 00020006      Value: 0.600000
+Key: 00020005      Value: 1.000000
+Key: 00020004      Value: 0.833333
+Key: 00070008      Value: 0.875000
+Key: 00020003      Value: 0.833333
+Key: 00040008      Value: 0.333333
+Key: 00040007      Value: 0.714286
+Key: 00040006      Value: 0.571429
+Key: 00040005      Value: 0.666667
+Key: 00090008      Value: 0.416667
+Key: 00090007      Value: 0.669643
+Key: 00090006      Value: 0.535714
+Key: 00090005      Value: 0.803571
+Key: 00090004      Value: 0.416667
+Key: 00090003      Value: 0.625000
+Key: 00090002      Value: 0.854167
+Key: 00060008      Value: 0.333333
+Key: 00060007      Value: 1.000000
+Key: 00030008      Value: 0.571429
+Key: 00030007      Value: 0.714286
+Key: 00030006      Value: 0.571429
+Key: 00030005      Value: 0.857143
+Key: 00030004      Value: 0.750000
+Smallest distance is 0.333333. Under key: 00040008
+Clusters to merge: 4, 8
+New cluster ID: 10
+Adding obejct to new cluster: 4
+Adding obejct to new cluster: 8
+4 merged with 8
+Calculating new distance matrix.
+Key: 00100009      Value: 0.416667
+Key: 00050007      Value: 0.833333
+Key: 00050006      Value: 0.666667
+Key: 00100007      Value: 0.794643
+Key: 00100006      Value: 0.452381
+Key: 00100005      Value: 0.761905
+Key: 00100003      Value: 0.660714
+Key: 00020007      Value: 1.000000
+Key: 00100002      Value: 0.716667
+Key: 00020006      Value: 0.600000
+Key: 00020005      Value: 1.000000
+Key: 00020003      Value: 0.833333
+Key: 00090007      Value: 0.669643
+Key: 00090006      Value: 0.535714
+Key: 00090005      Value: 0.803571
+Key: 00090003      Value: 0.625000
+Key: 00090002      Value: 0.854167
+Key: 00060007      Value: 1.000000
+Key: 00030007      Value: 0.714286
+Key: 00030006      Value: 0.571429
+Key: 00030005      Value: 0.857143
+Smallest distance is 0.416667. Under key: 00100009
+Clusters to merge: 10, 9
+New cluster ID: 11
+Adding obejct to new cluster: 4
+Adding obejct to new cluster: 8
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 1
+4,8 merged with 0,1
+Calculating new distance matrix.
+Key: 00110005      Value: 0.782738
+Key: 00110003      Value: 0.642857
+Key: 00110002      Value: 0.785417
+Key: 00060007      Value: 1.000000
+Key: 00050007      Value: 0.833333
+Key: 00050006      Value: 0.666667
+Key: 00030007      Value: 0.714286
+Key: 00030006      Value: 0.571429
+Key: 00030005      Value: 0.857143
+Key: 00020007      Value: 1.000000
+Key: 00020006      Value: 0.600000
+Key: 00020005      Value: 1.000000
+Key: 00020003      Value: 0.833333
+Key: 00110007      Value: 0.732143
+Key: 00110006      Value: 0.494048
+Smallest distance is 0.494048. Under key: 00110006
+Clusters to merge: 11, 6
+New cluster ID: 12
+Adding obejct to new cluster: 4
+Adding obejct to new cluster: 8
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 1
+Adding obejct to new cluster: 6
+4,8,0,1 merged with 6
+Calculating new distance matrix.
+Key: 00120003      Value: 0.607143
+Key: 00120002      Value: 0.692708
+Key: 00050007      Value: 0.833333
+Key: 00030007      Value: 0.714286
+Key: 00020007      Value: 1.000000
+Key: 00030005      Value: 0.857143
+Key: 00020005      Value: 1.000000
+Key: 00020003      Value: 0.833333
+Key: 00120007      Value: 0.866071
+Key: 00120005      Value: 0.724702
+Smallest distance is 0.607143. Under key: 00120003
+Clusters to merge: 12, 3
+New cluster ID: 13
+Adding obejct to new cluster: 4
+Adding obejct to new cluster: 8
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 1
+Adding obejct to new cluster: 6
+Adding obejct to new cluster: 3
+4,8,0,1,6 merged with 3
+Calculating new distance matrix.
+Key: 00130007      Value: 0.790179
+Key: 00130005      Value: 0.790923
+Key: 00050007      Value: 0.833333
+Key: 00130002      Value: 0.763021
+Key: 00020007      Value: 1.000000
+Key: 00020005      Value: 1.000000
+Smallest distance is 0.763021. Under key: 00130002
+Clusters to merge: 13, 2
+New cluster ID: 14
+Adding obejct to new cluster: 4
+Adding obejct to new cluster: 8
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 1
+Adding obejct to new cluster: 6
+Adding obejct to new cluster: 3
+Adding obejct to new cluster: 2
+4,8,0,1,6,3 merged with 2
+Calculating new distance matrix.
+Key: 00050007      Value: 0.833333
+Key: 00140007      Value: 0.895089
+Key: 00140005      Value: 0.895461
+Smallest distance is 0.833333. Under key: 00050007
+Clusters to merge: 5, 7
+New cluster ID: 15
+Adding obejct to new cluster: 5
+Adding obejct to new cluster: 7
+5 merged with 7
+Calculating new distance matrix.
+Key: 00150014      Value: 0.895275
+Smallest distance is 0.895275. Under key: 00150014
+Clusters to merge: 15, 14
+New cluster ID: 16
+Adding obejct to new cluster: 5
+Adding obejct to new cluster: 7
+Adding obejct to new cluster: 4
+Adding obejct to new cluster: 8
+Adding obejct to new cluster: 0
+Adding obejct to new cluster: 1
+Adding obejct to new cluster: 6
+Adding obejct to new cluster: 3
+Adding obejct to new cluster: 2
+5,7 merged with 4,8,0,1,6,3,2
+Calculating new distance matrix.
+AGNES run completed
