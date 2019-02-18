@@ -2,14 +2,20 @@
 
 ## 算法目录
 AssociationAnalysis | DataMining_Apriori | Apriori-关联规则挖掘算法
+AssociationAnalysis | DataMining_MSApriori | MSApriori-基于多支持度的Apriori算法
 AssociationAnalysis | DataMining_FPTree | FPTree-频繁模式树算法
 BaggingAndBoosting | DataMining_AdaBoost | AdaBoost-装袋提升算法
 Classification | DataMining_CART | CART-分类回归树算法
 Classification | DataMining_ID3 | ID3-决策树分类算法
 Classification | DataMining_KNN | KNN-k最近邻算法工具类
 Classification | DataMining_NaiveBayes | NaiveBayes-朴素贝叶斯算法
+Classification | DataMining_TAN | TAN-树型朴素贝叶斯算法
 Clustering | DataMining_BIRCH | BIRCH-层次聚类算法
 Clustering | DataMining_KMeans | KMeans-K均值算法
+Clustering | DataMining_DBSCAN | DBSCAN-基于密度的聚类算法
+Clustering | DataMining_CABDDCC | CABDDCC-基于连通图的分裂聚类算法
+Clustering | DataMining_Chameleon | Chameleon-两阶段合并聚类算法
+
 GraphMining | DataMining_GSpan | GSpan-频繁子图挖掘算法
 IntegratedMining | DataMining_CBA | CBA-基于关联规则的分类算法
 LinkMining | DataMining_HITS | HITS-链接分析算法
@@ -19,18 +25,14 @@ SequentialPatterns | DataMining_GSP | GSP-序列模式分析算法
 SequentialPatterns | DataMining_PrefixSpan | PrefixSpan-序列模式分析算法
 StatisticalLearning | DataMining_EM | EM-期望最大化算法
 StatisticalLearning | DataMining_SVM | SVM-支持向量机算法
-DataMining_ACO | ACO-蚁群算法
-DataMining_BayesNetwork | BayesNetwork-贝叶斯网络算法
-DataMining_CABDDCC | CABDDCC-基于连通图的分裂聚类算法
-DataMining_Chameleon | Chameleon-两阶段合并聚类算法
-DataMining_DBSCAN | DBSCAN-基于密度的聚类算法
-DataMining_GA | GA-遗传算法
-DataMining_GA_Maze | GA_Maze-遗传算法在走迷宫游戏中的应用算法
-DataMining_KDTree | KDTree-k维空间关键数据检索算法工具类
-DataMining_MSApriori | MSApriori-基于多支持度的Apriori算法
-DataMining_RandomForest | RandomForest-随机森林算法
-DataMining_TAN | TAN-树型朴素贝叶斯算法
-DataMining_Viterbi | Viterbi-维特比算法
+
+Other | DataMining_ACO | ACO-蚁群算法
+Other | DataMining_BayesNetwork | BayesNetwork-贝叶斯网络算法
+Other | DataMining_GA | GA-遗传算法
+Other | DataMining_GA_Maze | GA_Maze-遗传算法在走迷宫游戏中的应用算法
+Other | DataMining_KDTree | KDTree-k维空间关键数据检索算法工具类
+Other | DataMining_RandomForest | RandomForest-随机森林算法
+Other | DataMining_Viterbi | Viterbi-维特比算法
 
 
 
