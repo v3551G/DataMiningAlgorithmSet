@@ -1,6 +1,7 @@
 # 机器学习和数据挖掘经典算法 涉及到了决策分类，聚类，链接挖掘，关联挖掘，模式挖掘
 
 ## 算法目录
+-----| ------ |--------|
 AssociationAnalysis | DataMining_Apriori | Apriori-关联规则挖掘算法
 AssociationAnalysis | DataMining_MSApriori | MSApriori-基于多支持度的Apriori算法
 AssociationAnalysis | DataMining_FPTree | FPTree-频繁模式树算法
